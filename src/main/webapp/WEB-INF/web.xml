@@ -1,0 +1,29 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  
+  <context-param>
+  <param-name>Manager</param-name>
+  <param-value>1000.0</param-value>
+  </context-param>
+  
+  <context-param>
+  <param-name>Executive</param-name>
+  <param-value>800.0</param-value>
+  </context-param>
+  
+  <context-param>
+  <param-name>HR</param-name>
+  <param-value>600.0</param-value>
+  </context-param>
+  
+  <context-param>
+  <param-name>Worker</param-name>
+  <param-value>400.0</param-value>
+  </context-param>
+  
+  
+</web-app>
