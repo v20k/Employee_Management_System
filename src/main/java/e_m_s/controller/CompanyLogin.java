@@ -33,7 +33,6 @@ public class CompanyLogin extends HttpServlet {
 		}else {
 			resp.sendRedirect("CompanySignup.jsp");
 		}
-		
 	}
 	
 }
